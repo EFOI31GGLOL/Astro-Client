@@ -1,4 +1,4 @@
-#🚀Astro Client🚀
+# 🚀Astro Client🚀
 **A Discord élmény új szintre emelése**
 
 -Mi az az AstroClient?
@@ -14,22 +14,22 @@ Megpróbáljuk a lehető legtöbb mindent testreszabhatóvá tenni. Nem lesz tö
 
 "A téma szerkesztő néha elfelejti, mit is csinált" - Kalács
 
-#Nem lassít
+# Nem lassít
 Igyekeztünk minimalizálni a teljesítményhatást. Nem lesz gyorsabb, de legalább nem sokkal lassabb sem.
 
 "Ha nagyon lassú a géped, inkább ne töltsd le"
 
-#Hasznos bónuszok
+#H asznos bónuszok
 Pár olyan funkció, amit hiányolhatsz az alap Discordból. Nem mind működik tökéletesen, de próbálkozunk.
 
 "A fejlesztők 90%-a a saját igényeiket próbálják kielégíteni"
 
-#Adatvédelem
+# Adatvédelem
 Nem gyűjtünk semmilyen adatot. Mondjuk úgyse hinnéd el, ha azt írnánk, hogy gyűjtünk.
 
 "De komolyan, nem gyűjtünk semmit"
 
-#Frissítések
+# Frissítések
 Amikor épp van kedvünk és időnk, frissítjük. Néha gyakran, néha ritkán. Így működik a hobbi projekt.
 
 "A 'hamarosan' jelentése változó"
