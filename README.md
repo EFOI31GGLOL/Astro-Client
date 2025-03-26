@@ -19,7 +19,7 @@ Igyekeztünk minimalizálni a teljesítményhatást. Nem lesz gyorsabb, de legal
 
 "Ha nagyon lassú a géped, inkább ne töltsd le"
 
-#H asznos bónuszok
+# Hasznos bónuszok
 Pár olyan funkció, amit hiányolhatsz az alap Discordból. Nem mind működik tökéletesen, de próbálkozunk.
 
 "A fejlesztők 90%-a a saját igényeiket próbálják kielégíteni"
